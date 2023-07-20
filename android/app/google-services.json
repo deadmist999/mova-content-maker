@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "166346949750",
+    "project_id": "mova-4edc6",
+    "storage_bucket": "mova-4edc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166346949750:android:4a92d108850b49de53cb57",
+        "android_client_info": {
+          "package_name": "com.example.mova_content_maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166346949750-25v3mnbmdpki63lg0fv93c2dk4i766j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnt5rn-Qd3zUYEkV0kdoaPPvW8ZIb6auI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166346949750-25v3mnbmdpki63lg0fv93c2dk4i766j1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166346949750-4319ac3vg6hc7grlc4psschsaeetb9ko.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hamazeiaMarketplace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
